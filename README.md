@@ -1,3 +1,3 @@
 ## Deploying a Bottle web app on Heroku
 
-### Test
+### Test Bottle web framework
